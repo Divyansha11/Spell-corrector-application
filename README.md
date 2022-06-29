@@ -1,0 +1,2 @@
+# Spell-corrector-application
+A spell checker is a software feature that checks for misspellings in a text. Spell-checking features are often embedded in software or services, such as a word processor, email client, electronic dictionary, or search engine.
